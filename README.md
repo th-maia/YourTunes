@@ -18,7 +18,7 @@ Search para procurar uma banda!!!
 
 Escolha uma musica e favorite para ele estar na aba "Favorites"
 
-![musics] (./assets/readme/musics.png)
+![musics](./assets/readme/musics.png)
 
 
 # ‼️ instalando este projeto !!
