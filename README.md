@@ -18,15 +18,10 @@ Search para procurar uma banda!!!
 
 Escolha uma musica e favorite para ele estar na aba "Favorites"
 
-![music] (./assets/readme/music.png)
+![music] (./assets/readme/musics.png)
 
 
-# Orientações
-
-<details>
-  <summary>
-    <strong>‼️ instalando este projeto !!</strong>
-  </summary><br>
+# ‼️ instalando este projeto !!
 
   1. Clone o repositório
   - entre na pasta que deseja instalar e abra o terminal.
@@ -36,10 +31,10 @@ Escolha uma musica e favorite para ele estar na aba "Favorites"
 
   2. Instale as dependências
 
-  - Para isso, use o seguinte comando: `npm install`, 
+  - Para isso, use o seguinte comando: `npm install`, espere alguns segundos.
       caso dê algum erro tente rodar novamente o comando acima, pode ocorrer por diferentes versões ou pacotes que foram instalados após outros.
   
   3. rode o comando para iniciar a aplicação: `npm start`
-      este comando demora alguns minutos, se tudo der certo irá aparecer a pagina web. 
+      este comando demora alguns segundos, se tudo der certo irá aparecer a pagina web. 
 
 </details>
